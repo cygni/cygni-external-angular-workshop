@@ -20,8 +20,7 @@
 #### Ubuntu/Debian
 1. Ladda ner node/Npm  
 <code>curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -</code>
-2. Installera 
-<br>
+2. Installera  
 <code>sudo apt install nodejs</code>
 3. Kontrollera att det fungerar  
 <code>npm --version</code>
@@ -31,7 +30,7 @@
 <code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code>
 2. Installera node  
 <code>brew install node</code>  
-3. Kontrollera att det fungerar
+3. Kontrollera att det fungerar  
 <code>npm --version</code>
 
     
