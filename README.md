@@ -9,32 +9,28 @@
 
 
 ### Installera NPM
+
 #### Windows
 1. Ladda ner från  [https://nodejs.org/en/download/](https://nodejs.org/en/download/) 
-2. Kör sedan detta för att installera senaste versionen av npm
-<br>
+2. Kör sedan detta för att installera senaste versionen av npm  
 <code> npm install npm@latest -g</code>
-3. Kontrollera att det fungerar
-<br>
+3. Kontrollera att det fungerar  
 <code>npm --version</code>
+
 #### Ubuntu/Debian
-1. Ladda ner node/Npm
-<br>
+1. Ladda ner node/Npm  
 <code>curl -sL https://deb.nodesource.com/setup_10.x | sudo bash -</code>
 2. Installera 
 <br>
 <code>sudo apt install nodejs</code>
-3. Kontrollera att det fungerar
-<br>
+3. Kontrollera att det fungerar  
 <code>npm --version</code>
+
 #### MacOS
-1. Om du inte har Homebrew, installera det först
-<br>
+1. Om du inte har Homebrew, installera det först  
 <code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code>
-2. Installera node
-<br>
-<code>brew install node</code>
-<br>
+2. Installera node  
+<code>brew install node</code>  
 3. Kontrollera att det fungerar
 <code>npm --version</code>
 
