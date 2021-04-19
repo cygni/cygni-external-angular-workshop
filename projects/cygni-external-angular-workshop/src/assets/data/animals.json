@@ -1,0 +1,39 @@
+{
+    "animals": [
+        {
+            "name": "Bettan",
+            "age": 5,
+            "type": "Cat"
+        },
+        {
+            "name": "Gösta",
+            "age": 2,
+            "type": "Dog"
+        },
+        {
+            "name": "Måns",
+            "age": 8,
+            "type": "Cat"
+        },
+        {
+            "name": "Daisy",
+            "age": 6,
+            "type": "Cat"
+        },
+        {
+            "name": "Buster",
+            "age": 5,
+            "type": "Dog"
+        },
+        {
+            "name": "Saga",
+            "age": 11,
+            "type": "Horse"
+        },
+        {
+            "name": "Sixten",
+            "age": 7,
+            "type": "Dog"
+        }
+    ]
+}

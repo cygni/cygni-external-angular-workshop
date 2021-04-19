@@ -33,6 +33,34 @@
 3. Kontrollera att det fungerar  
 <code>npm --version</code>
 
+
+## Angular Workshop 1
+
+Angular Basics, Komponenter, Templates, Directives
+
+### Nybörjare del 1
+1. Generera en ny komponent med CLI-t som heter list.
+2. Lägg till selectorn för list-komponenten i app.component.html
+3. Skapa en Inputproperty i List-komponenten som innehåller djuren som hämtas från dataservice
+4. Rendera alla djur i listkomponenten och visa namn, typ och ålder på djuret
+5. Skapa tre input-fält (en för namn, typ och ålder)
+6. Lägg till en knapp som gör att användaren kan lägga till ett djur i listan.
+
+### Nybörjare del 2
+1. Baserat på djurets typ, sätt grön färg på texten som visar djurets namn om det är en hund, röd om det är en katt och gul om det är en häst. 
+
+### Avancerad
+1. Istället för att använda NgModel på Input-fälten för att lägga till ett nytt djur, använd dig av Angular Forms. 
+
+### Pro
+1. Använd routing för att visa listkomponenten.
+
+## TypeScript
+1. Skapa ett Animal-interface baserat på Djuren som kommer från dataService. Använd dig gärna av union-types.
+2. Sätt rätt return-type på funktionen getAnimals.
     
 
-    
+## Learn More
+[https://angular.io/guide/component-overview](https://angular.io/guide/component-overview)  
+[https://www.typescriptlang.org/](https://www.typescriptlang.org/)  
+[https://ultimatecourses.com/courses/angular](https://ultimatecourses.com/courses/angular), superbra kurs, kostar dock pengar.
