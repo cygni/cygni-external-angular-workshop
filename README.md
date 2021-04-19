@@ -1,7 +1,7 @@
 # Angular-workshop med Cygni
 
 ## Förberedelser
-1. Installera git om du inte redan har det [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git] (Installera Git)
+1. Installera git om du inte redan har det [Installera Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. Klona detta repo (Alternativt ladda ner zipfil om du inte har git installerat)
 3. Installera  [Visual Studio Code](https://code.visualstudio.com/) eller annan editor.
 4. Installera NPM
