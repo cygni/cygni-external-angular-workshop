@@ -22,6 +22,7 @@
 1. [https://angular.io/start/start-routing](https://angular.io/start/start-routing)
 
 ## Typescript Workshop
-1. [https://www.typescriptlang.org/docs/handbook/interfaces.html#introduction](https://www.typescriptlang.org/docs/handbook/interfaces.html#introduction)
+1. [https://www.typescriptlang.org/docs/handbook/interfaces.html#introduction](https://www.typescriptlang.org/docs/handbook/interfaces.html#introduction)  
+[https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#defining-a-union-type](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#defining-a-union-type)
 2. [https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#return-type-annotations](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#return-type-annotations)
 

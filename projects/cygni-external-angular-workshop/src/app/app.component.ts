@@ -12,7 +12,7 @@ export class AppComponent {
   constructor(
     private readonly dataService: DataService
   ) {
-    this.dataService.getAnimals().subscribe((glassar) => {
+    this.dataService.getAnimals().subscribe((animals) => {
       
     });
   }
